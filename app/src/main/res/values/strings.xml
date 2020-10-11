@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Greet Improved</string>
+    <string name="premiun">Premiun</string>
+    <string name="señor">Mr.</string>
+    <string name="señora">Mrs</string>
+    <string name="señorita">Ms</string>
+    <string name="politely">Politely</string>
+    <string name="greet">Greet</string>
+    <string name="saludo">Whats up %1$s %2$s</string>
+    <string name="saludoFormal">Good Morning  %1$s %2$s %3$s</string>
 </resources>
